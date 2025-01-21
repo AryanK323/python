@@ -1,4 +1,4 @@
-#BY MAHIR SHAH
+#BY ARYAN KYADA
 def togglecase(s):
     result = ""
     for char in s:
