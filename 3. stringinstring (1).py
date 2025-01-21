@@ -1,4 +1,4 @@
-#BYARYAN KYADA
+#BY ARYAN KYADA
 #STRING IN STRING
 def stringinstring(str1, str2):
     if str1 in str2:
